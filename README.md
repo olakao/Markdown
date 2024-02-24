@@ -1,11 +1,20 @@
 # Aleksandra Ostrowska
 
-**Informatyka praktyczna**
+***Informatyka praktyczna***
 
-***Uniwersytet Gdański***
+**Uniwersytet Gdański**
 
-*Wydział Matematyki Fizyki i Informatyki*
+Wydział Matematyki Fizyki i Informatyki
 
->Miej odwagę
->>Niczego
->>>Nie osiągnąć <3
+>*Miej odwagę*
+>>~~*Niczego*~~
+>>>~~*Nie*~~
+>>>>*osiągnąć* **<3**
+
+<img src="1280px-Invisible_Pink_Unicorn.svg.png">
+
+1. Lubię placki
+    1. Pierogi jagodowe
+    2. Caprese
+1. Też
+
