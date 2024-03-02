@@ -25,6 +25,8 @@ Najlepsze religie:
 * Jesus superStar
 * Zaratusztra
 
+Lubię programować ``print("Bardzo")``
+
 ```py
 print("Hej")
 a = float(input("Podaj proszę liczbę typu zmiennoprzecinkowego: "))
