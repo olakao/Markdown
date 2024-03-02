@@ -31,13 +31,5 @@ Lubię programować ``print("Bardzo")``
 print("Hej")
 a = float(input("Podaj proszę liczbę typu zmiennoprzecinkowego: "))
 b = int(input("Podaj proszę liczbę całkowitą: "))
-print("Podniosłem pierwszą liczbę do potęgi drugiej liczyby, oto wynik: ", float(a**b))
-"""
-Dlaczego python podaje zły wynik?
-Hej
-Podaj proszę liczbę typu zmiennoprzecinkowego: 2.2
-Podaj proszę liczbę całkowitą: 2.0
-Podniosłem pierwszą liczbę do potęgi drugiej liczyby, oto wynik:  4.840000000000001
-Skąd 1 na końcu?
-"""
+print("Podniosłem pierwszą liczbę do potęgi drugiej liczyby, oto wynik: ", round((float(a**b)),8))
 ```
