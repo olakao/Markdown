@@ -25,3 +25,11 @@ Najlepsze religie:
 * Jesus superStar
 * Zaratusztra
 
+```py
+print("Hej")
+a = float(input("Podaj proszę liczbę typu zmiennoprzecinkowego: "))
+b = int(input("Podaj proszę liczbę całkowitą: "))
+print("Podniosłem pierwszą liczbę do potęgi drugiej liczyby, oto wynik: ", float(a**b))
+```
+
+
