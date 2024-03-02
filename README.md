@@ -18,3 +18,10 @@ Wydział Matematyki Fizyki i Informatyki
     2. Caprese
 1. Też
 
+Najlepsze religie:
+* Niewidzialny różowy jednorożec
+* Czajniczek orbitujący wokół układu słonecznego
+* Buddyzm
+* Jesus superStar
+* Zaratusztra
+
